@@ -1,0 +1,709 @@
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\inz.dll.config
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\inz.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\inz.pdb
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\csc.exe
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\csc.exe.config
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\csc.rsp
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\csi.exe
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\csi.exe.config
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\csi.rsp
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.AppContext.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Collections.Immutable.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Console.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.IO.Compression.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.IO.FileSystem.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.IO.Pipes.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Reflection.Metadata.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Security.AccessControl.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Security.Claims.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.ValueTuple.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Xml.XPath.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\vbc.exe
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\vbc.exe.config
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\vbc.rsp
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\VBCSCompiler.exe
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\roslyn\VBCSCompiler.exe.config
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Antlr3.Runtime.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\EntityFramework.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\EntityFramework.SqlServer.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.Google.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Web.Infrastructure.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Newtonsoft.Json.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Owin.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.Helpers.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.Mvc.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.Optimization.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.Razor.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.WebPages.Deployment.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.WebPages.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.WebPages.Razor.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\WebGrease.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.Helpers.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.Mvc.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.Optimization.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.Razor.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.WebPages.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.WebPages.Deployment.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Web.WebPages.Razor.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Newtonsoft.Json.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Antlr3.Runtime.pdb
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\EntityFramework.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\EntityFramework.SqlServer.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.Google.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\obj\Debug\inz.csprojAssemblyReference.cache
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\obj\Debug\inz.csproj.CoreCompileInputs.cache
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\obj\Debug\inz.csproj.CopyComplete
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\obj\Debug\inz.dll
+D:\Software\Visual Studio 2017\Repos\proj\inz\inz\obj\Debug\inz.pdb
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\inz.dll.config
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\inz.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\inz.pdb
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\csc.exe
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\csc.exe.config
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\csc.rsp
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\csi.exe
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\csi.exe.config
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\csi.rsp
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.AppContext.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Collections.Immutable.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Console.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.IO.Compression.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.IO.FileSystem.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.IO.Pipes.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Reflection.Metadata.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Security.AccessControl.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Security.Claims.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.ValueTuple.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Xml.XPath.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\vbc.exe
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\vbc.exe.config
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\vbc.rsp
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\VBCSCompiler.exe
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\roslyn\VBCSCompiler.exe.config
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Antlr3.Runtime.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\EntityFramework.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\EntityFramework.SqlServer.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Google.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Web.Infrastructure.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Newtonsoft.Json.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Owin.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.Helpers.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.Mvc.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.Optimization.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.Razor.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.WebPages.Deployment.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.WebPages.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.WebPages.Razor.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\WebGrease.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.Helpers.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.Mvc.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.Optimization.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.Razor.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.WebPages.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.WebPages.Deployment.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Web.WebPages.Razor.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Newtonsoft.Json.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Antlr3.Runtime.pdb
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\EntityFramework.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\EntityFramework.SqlServer.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Google.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\obj\Debug\inz.csproj.CoreCompileInputs.cache
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\obj\Debug\inz.csproj.CopyComplete
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\obj\Debug\inz.dll
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\obj\Debug\inz.pdb
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\obj\Debug\inz.Migrations.InitialCreate.resources
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\obj\Debug\inz.csproj.GenerateResource.cache
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\obj\Debug\inz.Migrations.AccountType.resources
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\obj\Debug\inz.Migrations.secondMigration.resources
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\obj\Debug\inz.csprojAssemblyReference.cache
+D:\Software\Visual Studio 2017\Repos\inz\inz\inz\obj\Debug\inz.Migrations.mig2.resources
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\inz.dll.config
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\inz.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\inz.pdb
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\csc.exe
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\csc.exe.config
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\csc.rsp
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\csi.exe
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\csi.exe.config
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\csi.rsp
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.AppContext.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Console.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\vbc.exe
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\vbc.exe.config
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\vbc.rsp
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Antlr3.Runtime.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\EntityFramework.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\EntityFramework.SqlServer.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Newtonsoft.Json.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Owin.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.Helpers.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.Mvc.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.Optimization.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.Razor.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.WebPages.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\WebGrease.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.Helpers.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.Mvc.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.Optimization.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.Razor.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.WebPages.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Newtonsoft.Json.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Antlr3.Runtime.pdb
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\EntityFramework.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\EntityFramework.SqlServer.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\obj\Debug\inz.csprojAssemblyReference.cache
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\obj\Debug\inz.Migrations.InitialCreate.resources
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\obj\Debug\inz.Migrations.AccountType.resources
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\obj\Debug\inz.Migrations.secondMigration.resources
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\obj\Debug\inz.Migrations.mig2.resources
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\obj\Debug\inz.csproj.GenerateResource.cache
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\obj\Debug\inz.csproj.CoreCompileInputs.cache
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\obj\Debug\inz.csproj.CopyComplete
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\obj\Debug\inz.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\obj\Debug\inz.pdb
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\PagedList.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\PagedList.Mvc.dll
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\PagedList.xml
+C:\Users\Ochnik\Source\Repos\inz\inz\inz\bin\PagedList.Mvc.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\inz.dll.config
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\inz.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\inz.pdb
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\csc.exe
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\csc.exe.config
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\csc.rsp
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\csi.exe
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\csi.exe.config
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\csi.rsp
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.AppContext.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Console.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\vbc.exe
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\vbc.exe.config
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\vbc.rsp
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Antlr3.Runtime.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\EntityFramework.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\EntityFramework.SqlServer.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Newtonsoft.Json.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Owin.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\PagedList.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\PagedList.Mvc.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.Helpers.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.Mvc.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.Optimization.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.Razor.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.WebPages.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\WebGrease.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\PagedList.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\PagedList.Mvc.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.Helpers.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.Mvc.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.Optimization.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.Razor.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.WebPages.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Newtonsoft.Json.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Antlr3.Runtime.pdb
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\EntityFramework.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\EntityFramework.SqlServer.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\obj\Debug\inz.csprojAssemblyReference.cache
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.InitialCreate.resources
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.AccountType.resources
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.secondMigration.resources
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.mig2.resources
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\obj\Debug\inz.csproj.GenerateResource.cache
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\obj\Debug\inz.csproj.CoreCompileInputs.cache
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\obj\Debug\inz.csproj.CopyComplete
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\obj\Debug\inz.dll
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\obj\Debug\inz.pdb
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.mig3.resources
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.migracja4.resources
+C:\Users\Ochnik\Desktop\inzynierka\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.mig5.resources
+E:\gry\inzynierka\inz\inz\inz\bin\inz.dll.config
+E:\gry\inzynierka\inz\inz\inz\bin\inz.dll
+E:\gry\inzynierka\inz\inz\inz\bin\inz.pdb
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\csc.exe
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\csc.exe.config
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\csc.rsp
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\csi.exe
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\csi.exe.config
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\csi.rsp
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.Managed.Core.targets
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.AppContext.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Collections.Immutable.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Console.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.IO.Compression.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.IO.FileSystem.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.IO.Pipes.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Reflection.Metadata.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Security.AccessControl.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Security.Claims.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Security.Principal.Windows.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.ValueTuple.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Xml.XmlDocument.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Xml.XPath.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\vbc.exe
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\vbc.exe.config
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\vbc.rsp
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\VBCSCompiler.exe
+E:\gry\inzynierka\inz\inz\inz\bin\roslyn\VBCSCompiler.exe.config
+E:\gry\inzynierka\inz\inz\inz\bin\Antlr3.Runtime.dll
+E:\gry\inzynierka\inz\inz\inz\bin\EntityFramework.dll
+E:\gry\inzynierka\inz\inz\inz\bin\EntityFramework.SqlServer.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.Identity.Core.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Cookies.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Facebook.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Google.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.OAuth.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Twitter.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Web.Infrastructure.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Newtonsoft.Json.dll
+E:\gry\inzynierka\inz\inz\inz\bin\Owin.dll
+E:\gry\inzynierka\inz\inz\inz\bin\PagedList.dll
+E:\gry\inzynierka\inz\inz\inz\bin\PagedList.Mvc.dll
+E:\gry\inzynierka\inz\inz\inz\bin\System.Diagnostics.DiagnosticSource.dll
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.Helpers.dll
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.Mvc.dll
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.Optimization.dll
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.Razor.dll
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.WebPages.Deployment.dll
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.WebPages.dll
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.WebPages.Razor.dll
+E:\gry\inzynierka\inz\inz\inz\bin\WebGrease.dll
+E:\gry\inzynierka\inz\inz\inz\bin\PagedList.xml
+E:\gry\inzynierka\inz\inz\inz\bin\PagedList.Mvc.xml
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.Helpers.xml
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.Mvc.xml
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.Optimization.xml
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.Razor.xml
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.WebPages.xml
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.WebPages.Deployment.xml
+E:\gry\inzynierka\inz\inz\inz\bin\System.Web.WebPages.Razor.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Newtonsoft.Json.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Antlr3.Runtime.pdb
+E:\gry\inzynierka\inz\inz\inz\bin\EntityFramework.xml
+E:\gry\inzynierka\inz\inz\inz\bin\EntityFramework.SqlServer.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.Identity.Core.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Facebook.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Cookies.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Google.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.Twitter.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.Owin.Security.OAuth.xml
+E:\gry\inzynierka\inz\inz\inz\bin\System.Diagnostics.DiagnosticSource.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\gry\inzynierka\inz\inz\inz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.csprojAssemblyReference.cache
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.InitialCreate.resources
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.AccountType.resources
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.secondMigration.resources
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.mig2.resources
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.mig3.resources
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.migracja4.resources
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.mig5.resources
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.csproj.GenerateResource.cache
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.csproj.CoreCompileInputs.cache
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.csproj.CopyComplete
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.dll
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.pdb
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.test.resources
+E:\gry\inzynierka\inz\inz\inz\obj\Debug\inz.Migrations.order.resources
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\inz.dll.config
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\inz.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\inz.pdb
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\csc.exe
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\csc.exe.config
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\csc.rsp
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\csi.exe
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\csi.exe.config
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\csi.rsp
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\Microsoft.Managed.Core.targets
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.AppContext.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Collections.Immutable.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Console.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.IO.Compression.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.IO.FileSystem.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.IO.Pipes.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Reflection.Metadata.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Security.AccessControl.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Security.Claims.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Security.Principal.Windows.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.ValueTuple.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Xml.XmlDocument.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Xml.XPath.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\vbc.exe
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\vbc.exe.config
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\vbc.rsp
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\VBCSCompiler.exe
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\roslyn\VBCSCompiler.exe.config
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Antlr3.Runtime.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\EntityFramework.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\EntityFramework.SqlServer.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.AspNet.Identity.Core.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.Cookies.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.Facebook.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.Google.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.OAuth.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.Twitter.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Web.Infrastructure.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Newtonsoft.Json.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Owin.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\PagedList.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\PagedList.Mvc.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Diagnostics.DiagnosticSource.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.Helpers.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.Mvc.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.Optimization.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.Razor.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.WebPages.Deployment.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.WebPages.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.WebPages.Razor.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\WebGrease.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\PagedList.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\PagedList.Mvc.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.Helpers.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.Mvc.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.Optimization.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.Razor.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.WebPages.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.WebPages.Deployment.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Web.WebPages.Razor.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Newtonsoft.Json.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Antlr3.Runtime.pdb
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\EntityFramework.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\EntityFramework.SqlServer.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.AspNet.Identity.Core.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.Facebook.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.Cookies.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.Google.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.Twitter.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.Owin.Security.OAuth.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\System.Diagnostics.DiagnosticSource.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.csprojAssemblyReference.cache
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.Migrations.InitialCreate.resources
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.Migrations.AccountType.resources
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.Migrations.secondMigration.resources
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.Migrations.mig2.resources
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.Migrations.mig3.resources
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.Migrations.migracja4.resources
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.Migrations.mig5.resources
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.Migrations.test.resources
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.Migrations.order.resources
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.csproj.GenerateResource.cache
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.csproj.CoreCompileInputs.cache
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.csproj.CopyComplete
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.dll
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.pdb
+E:\studia\7 semestr\BACKUP\najnowsza\inz\inz\inz\obj\Debug\inz.Migrations.nowa7.resources

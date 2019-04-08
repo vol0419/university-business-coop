@@ -1,0 +1,90 @@
+﻿@model inz.Models.Offer
+
+@{
+                
+
+                ViewBag.Title = "Details";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <h4>Oferta biznesowa</h4>
+    <hr />
+    <h1><bold>@Html.DisplayFor(model => model.Title)</bold></h1>
+    <hr />
+    <img src="~/Images/@Html.DisplayFor(model => model.ImgName)" align="left" alt="" height="200" width="225" hspace="20" />
+    <h4>@Html.DisplayFor(model => model.Description)</h4>
+
+    <p> </p>
+    <hr />
+    <p> </p>
+    <p>
+
+        <a><bold>@Html.DisplayNameFor(model => model.Date) :</bold></a>
+
+        @Html.DisplayFor(model => model.Date)
+
+        &emsp;|&emsp;
+
+        <a><bold>@Html.DisplayNameFor(model => model.Categories) :</bold></a>
+
+        @Html.DisplayFor(model => model.Categories)
+
+        &emsp;|&emsp;
+
+        <a><bold>@Html.DisplayNameFor(model => model.Author) :</bold></a>
+
+        @Html.DisplayFor(model => model.Author)
+
+    </p>
+
+    @*
+        @using (Html.BeginForm("Details", "Articles", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.AntiForgeryToken()
+            <div class="form-horizontal">
+                <div class="form-group">
+                    <fieldset class="rating">
+                        <a>Rate this article: </a>
+                        <input type="radio" id="star5" name="rating" value="5" /><label for="star5" title="Rocks!">5 stars</label>
+                        <input type="radio" id="star4" name="rating" value="4" checked="checked" /><label for="star4" title="Pretty good">4 stars</label>
+                        <input type="radio" id="star3" name="rating" value="3" /><label for="star3" title="Meh">3 stars</label>
+                        <input type="radio" id="star2" name="rating" value="2" /><label for="star2" title="Kinda bad">2 stars</label>
+                        <input type="radio" id="star1" name="rating" value="1" /><label for="star1" title="Sucks big time">1 star</label>
+
+                    </fieldset>
+                    <a>&emsp;</a>
+                    <input type="submit" value="rate" class="btn btn-outline-danger" />
+                </div>
+
+
+
+            </div>
+        }
+    *@
+
+
+
+
+
+    @*
+        @if (Context.User.IsInRole("Admin"))
+        {
+    *@
+    @if (Context.User.IsInRole("Admin") || Context.User.IsInRole("Agent") || Context.User.IsInRole("Scientist") || Context.User.IsInRole("Firm"))
+    {
+        <button type="button" onclick="location.href='@Url.Action("Edit", "Offers", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-warning">Edycja</button>
+
+        <button type="button" onclick="location.href='@Url.Action("Delete", "Offers", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-danger">Usuń</button>
+    }
+    @if (Context.User.IsInRole("Admin") || Context.User.IsInRole("Agent"))
+    {
+        <button type="button" onclick="location.href='@Url.Action("Create", "OffersPendings", new { offID = Html.DisplayTextFor(model => model.ID), offTitle = Html.DisplayTextFor(model => model.Title) })'" class="btn btn-danger">Zainteresowany</button>
+    }
+
+    </div>
+<p>
+    <button type="button" onclick="location.href='@Url.Action("Index", "Offers", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-success">Powrót</button>
+
+</p>

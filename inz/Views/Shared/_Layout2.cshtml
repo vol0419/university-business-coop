@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/css/main3.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+
+
+    <div class="container">
+        @RenderBody()
+        <hr />
+
+
+
+
+        <div class="socials">
+            <div class="socialdivs">
+                <a href="https://www.facebook.com/">
+                    <div class="fb">
+                        <i class=icon-facebook></i>
+                        <img src="https://cdn3.iconfinder.com/data/icons/glypho-social-and-other-logos/64/logo-facebook-128.png">
+                    </div>
+                </a>
+                <a href="https://www.youtube.com/">
+                    <div class="yt">
+                        <i class=icon-youtube></i>
+                        <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/58-youtube-128.png" ">
+                    </div>
+                </a>
+                <a href="https://twitter.com/?lang=pl">
+                    <div class="tw">
+                        <i class=icon-twitter></i>
+                        <img src="https://cdn3.iconfinder.com/data/icons/glypho-social-and-other-logos/64/logo-twitter-128.png">
+                    </div>
+                </a>
+                <a href="https://plus.google.com/u/0/">
+                    <div class="gplus">
+                        <i class=icon-gplus></i>
+                        <img src="https://cdn3.iconfinder.com/data/icons/glypho-social-and-other-logos/64/logo-google-plus-128.png">
+                    </div>
+                </a>
+                <div style="clear:both"></div>
+
+            </div>
+        </div>
+
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Strona Biznesowa UPH Konrad Ochnik,Karol Kostrzębski</p>
+        </footer>
+
+    </div>
+ 
+  
+   
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

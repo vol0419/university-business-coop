@@ -1,0 +1,63 @@
+﻿@model inz.Models.News
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <h4>News</h4>
+    <hr />
+    <h1 text-align="center"><bold>@Html.DisplayFor(model => model.Title)   </bold> </h1>
+    <br />
+    <hr>
+
+
+
+
+    <img src="~/Images/@Html.DisplayFor(model => model.ImgName)" align="left" alt="BrakObrazu" height="250" width="1100" hspace="20" />
+    <br />
+    <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
+
+    <hr />
+
+
+
+    @Html.DisplayFor(model => model.Description)
+
+
+    <p>
+
+        <a><bold>@Html.DisplayNameFor(model => model.Date) :</bold></a>
+
+        @Html.DisplayFor(model => model.Date)
+
+        &emsp;|&emsp;
+
+        <a><bold>@Html.DisplayNameFor(model => model.Author) :</bold></a>
+
+        @Html.DisplayFor(model => model.Author)
+
+
+
+
+
+    </p>
+
+
+
+
+
+
+
+
+</div>
+<p>
+    @if (Context.User.IsInRole("Admin"))
+    {
+        <button type="button" onclick="location.href='@Url.Action("Edit", "News", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-warning">Edit</button> |
+    }
+<button type="button" onclick="location.href='@Url.Action("Index", "News", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-success">Powrót</button>
+
+</p>

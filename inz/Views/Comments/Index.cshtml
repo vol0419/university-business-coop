@@ -1,0 +1,63 @@
+﻿@model IEnumerable<inz.Models.Comment>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Komentarz</h2>
+@if (Context.User.IsInRole("Admin") || Context.User.IsInRole("Agent") || Context.User.IsInRole("Firm"))
+{
+    <p>
+        @Html.ActionLink("Nowy komentarz", "Create")
+    </p>
+}
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nickname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProjectID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QuestID)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nickname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProjectID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.QuestID)
+                </td>
+                @if (Context.User.IsInRole("Admin") || Context.User.IsInRole("Agent"))
+                {
+                    <td>
+                        @Html.ActionLink("Edycja", "Edit", new { id = item.ID }) |
+                        @Html.ActionLink("Szczegóły", "Details", new { id = item.ID }) |
+                        @Html.ActionLink("Usuń", "Delete", new { id = item.ID })
+                    </td>
+                }
+            </tr>
+        }
+
+    </table>

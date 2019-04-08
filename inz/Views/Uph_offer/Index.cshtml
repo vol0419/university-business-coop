@@ -1,0 +1,121 @@
+﻿
+@model PagedList.IPagedList<inz.Models.Uph_offer>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Oferta UPH</h2>
+
+@if (Context.User.IsInRole("Admin") || Context.User.IsInRole("Agent") || Context.User.IsInRole("Scientist") || Context.User.IsInRole("Firm"))
+{
+    <p>
+        @Html.ActionLink("Nowa Oferta", "Create")
+    </p>
+}
+@using (Html.BeginForm())
+{
+    <p>
+        Szukaj: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+
+<ol>
+
+    <li>
+        Sortuj po
+        <ul>
+            <li>
+                @Html.ActionLink("Tytuł", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+            </li>
+
+            <li>
+                @Html.ActionLink("Autor", "Index", new { sortOrder = ViewBag.SureNameSortParm, currentFilter = ViewBag.CurrentFilter })
+            </li>
+
+        </ul>
+    </li>
+
+
+
+
+
+
+</ol>
+<br /><br>
+
+<br />
+
+
+
+
+@foreach (var item in Model)
+{
+
+    <hr />
+    <h1 onclick="location.href='@Url.Action("Details", "Uph_offer", new { id = item.ID })'"><bold>@Html.DisplayFor(modelItem => item.Title)</bold></h1>
+    <hr />
+    <img src="~/Images/@item.ImgName" align="left" alt="" height="100" width="100" hspace="20" />
+
+
+    <big onclick="location.href='@Url.Action("Details", "Uph_offer", new { id = item.ID })'">@item.Description.Substring(0, Math.Min(item.Description.Length, 700))</big>
+    <p> </p>
+    <hr />
+    <p> </p>
+    <p> </p>
+
+    <a>Data : </a> @Html.DisplayFor(modelItem => item.Date)
+    <a>&emsp;|&emsp;</a>
+    <a>Kategorie : </a> @Html.DisplayFor(modelItem => item.Categories)
+    <a>&emsp;|&emsp;</a>
+    <a>Autor : </a> @Html.DisplayFor(modelItem => item.Author)
+
+    <p></p>
+    <a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; </a>
+    <a>Wydział : </a> @Html.DisplayFor(modelItem => item.Department)
+    <a>&emsp;|&emsp;</a>
+
+    <a>Dodatkowe informacje : </a> @Html.DisplayFor(modelItem => item.Aiddtional_information)
+
+    if (Context.User.IsInRole("Admin") || Context.User.IsInRole("Firm") || Context.User.IsInRole("Scientist")
+                              || Context.User.IsInRole("Agent"))
+    {
+
+        <br />
+        <tr>
+            <td>
+                <button type="button" onclick="location.href='@Url.Action("Details", "Uph_offer", new { id = item.ID })'" class="btn btn-info">Szczegóły</button>
+            </td>
+
+            <td>
+                <button type="button" onclick="location.href='@Url.Action("Edit", "Uph_offer", new { id = item.ID })'" class="btn btn-warning">Edycja</button>
+
+            </td>
+            <td>
+                <button type="button" onclick="location.href='@Url.Action("Delete", "Uph_offer", new { id = item.ID })'" class="btn btn-danger">Usuń</button>
+            </td>
+
+        </tr>
+        <br />
+    }
+}
+
+
+
+
+
+
+
+
+<br>
+
+<br />
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+        new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

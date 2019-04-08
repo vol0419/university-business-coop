@@ -1,0 +1,48 @@
+﻿@model IEnumerable<inz.Models.News>
+
+@{
+    /**/
+
+    ViewBag.Title = "Index";
+}
+
+<h2>News</h2>
+@if (Context.User.IsInRole("Admin") )
+{
+    <p>
+        @Html.ActionLink("Nowy news", "Create")
+    </p>
+}
+    @foreach (var item in Model)
+    {
+        <br />
+        <hr>
+
+        <h1 text-align="center" onclick="location.href='@Url.Action("Details", "News", new { id = item.ID })'"><bold>@Html.DisplayFor(modelItem => item.Title)   </bold> </h1>
+
+
+        <img onclick="location.href='@Url.Action("Details", "News", new { id = item.ID })'" src="~/Images/@item.ImgName" align="left" alt="BrakObrazu" height="500" width="1000" hspace="20" />
+        <br />
+        <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+        <br />
+        if (Context.User.IsInRole("Admin"))
+        {
+            <tr>
+                <td>
+                    <button type="button" onclick="location.href='@Url.Action("Details", "News", new { id = item.ID })'" class="btn btn-info">Szczegóły</button>
+                </td>
+
+                <td>
+                    <button type="button" onclick="location.href='@Url.Action("Edit", "News", new { id = item.ID })'" class="btn btn-warning">Edycja</button>
+
+                </td>
+                <td>
+                    <button type="button" onclick="location.href='@Url.Action("Delete", "News", new { id = item.ID })'" class="btn btn-danger">Usuń</button>
+                </td>
+
+            </tr>
+        }
+        <br />
+    }
+
+

@@ -1,0 +1,69 @@
+﻿@model IEnumerable<inz.Models.Firm>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Firmy</h2>
+@if (Context.User.IsInRole("Admin"))
+{
+    <p>
+        @Html.ActionLink("Nowa firma", "Create")
+    </p>
+}
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Adress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Www)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Consent)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Adress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Mail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Www)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Consent)
+                </td>
+                @if (Context.User.IsInRole("Admin"))
+                {
+                    <td>
+                        @Html.ActionLink("Edycja", "Edit", new { id = item.ID }) |
+                        @Html.ActionLink("Szczegóły", "Details", new { id = item.ID }) |
+                        @Html.ActionLink("Usuń", "Delete", new { id = item.ID })
+                    </td>
+                }
+            </tr>
+        }
+
+    </table>

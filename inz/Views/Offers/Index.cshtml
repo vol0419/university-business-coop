@@ -1,0 +1,114 @@
+﻿@model PagedList.IPagedList<inz.Models.Offer>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+<style>
+    input[type=submit] {
+        background-color: lightslategrey;
+        border: none;
+        color: white;
+        padding: 8px 16px;
+        text-decoration: none;
+        margin: 2px 1px;
+        cursor: pointer;
+    }
+</style>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Oferty Biznesowe</h2>
+@if (Context.User.IsInRole("Admin") || Context.User.IsInRole("Agent") || Context.User.IsInRole("Scientist") || Context.User.IsInRole("Firm"))
+{
+    <p>
+        @Html.ActionLink("Nowa Oferta", "Create")
+    </p>
+}
+    @using (Html.BeginForm())
+    {
+        <p>
+            Szukana fraza: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+            <input type="submit" value="Szukaj" />
+        </p>
+    }
+
+
+    <ol>
+
+        <li>
+            Sortuj po
+            <ul>
+                <li>
+                    @Html.ActionLink("Tytuł", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+                </li>
+
+                <li>
+                    @Html.ActionLink("Autor", "Index", new { sortOrder = ViewBag.SureNameSortParm, currentFilter = ViewBag.CurrentFilter })
+                </li>
+
+            </ul>
+        </li>
+
+
+
+
+
+
+    </ol>
+    <br /><br>
+
+    <br />
+
+    @foreach (var item in Model)
+    {
+
+        <hr />
+        <h1 onclick="location.href='@Url.Action("Details", "Offers", new { id = item.ID })'"><bold>@Html.DisplayFor(modelItem => item.Title)</bold></h1>
+        <hr />
+        <img src="~/Images/@item.ImgName" align="left" alt="" height="125" width="150" hspace="20" />
+
+
+        <h4 onclick="location.href='@Url.Action("Details", "Offers", new { id = item.ID })'">@item.Description.Substring(0, Math.Min(item.Description.Length, 700)) ...</h4>
+        <p> </p>
+        <hr />
+        <p> </p>
+        <p> </p>
+
+        <a>Data : </a> @Html.DisplayFor(modelItem => item.Date)
+        <a>&emsp;|&emsp;</a>
+        <a>Kategorie : </a> @Html.DisplayFor(modelItem => item.Categories) <a style="all: initial;">Biotechnologia</a>
+        <a>&emsp;|&emsp;</a>
+        <a>Autor : </a> @Html.DisplayFor(modelItem => item.Author)
+
+        <br />
+        
+            <tr>
+                <td>
+                    <button type="button" onclick="location.href='@Url.Action("Details", "Offers", new { id = item.ID })'" class="btn btn-info">Szczegóły</button>
+                </td>
+                </tr>
+        if (Context.User.IsInRole("Admin") || Context.User.IsInRole("Firm") || Context.User.IsInRole("Scientist")
+              || Context.User.IsInRole("Agent"))
+        {
+                <tr>
+                <td>
+                    <button type="button" onclick="location.href='@Url.Action("Edit", "Offers", new { id = item.ID })'" class="btn btn-warning">Edycja</button>
+
+                </td>
+                <td>
+                    <button type="button" onclick="location.href='@Url.Action("Delete", "Offers", new { id = item.ID })'" class="btn btn-danger">Usuń</button>
+                </td>
+
+            </tr>
+        }
+        <br />
+        <br>
+
+        <br />
+
+
+    }
+
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+        new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

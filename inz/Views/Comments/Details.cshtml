@@ -1,0 +1,59 @@
+﻿@model inz.Models.Comment
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <h4>Komentarz</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nickname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nickname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjectID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProjectID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QuestID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QuestID)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <button type="button" onclick="location.href='@Url.Action("Edit", "Comments", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-warning">Edit</button> |
+    <button type="button" onclick="location.href='@Url.Action("Index", "Comments", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-success">Powrót</button>
+
+</p>

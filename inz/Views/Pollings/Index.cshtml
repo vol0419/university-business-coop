@@ -1,0 +1,46 @@
+﻿@model IEnumerable<inz.Models.Polling>
+
+@{
+    /**/
+
+    ViewBag.Title = "Index";
+}
+
+<h2>Ankieta</h2>
+@if (Context.User.IsInRole("Admin"))
+{
+    <p>
+        @Html.ActionLink("Nowa ankieta", "Create")
+    </p>
+}
+
+    @foreach (var item in Model)
+    {
+        <h1><bold> @Html.DisplayFor(modelItem => item.Name)</bold></h1>
+
+        <br />
+
+        <iframe src=" @item.FormLink" width="1000" height="1000" frameborder="0" marginheight="0" marginwidth="0">Ładuję...</iframe>
+
+        <br />
+        if (Context.User.IsInRole("Admin"))
+        {
+            <tr>
+                <td>
+                    <button type="button" onclick="location.href='@Url.Action("Details", "Pollings", new { id = item.ID })'" class="btn btn-info">Szczegóły</button>
+                </td>
+
+                <td>
+                    <button type="button" onclick="location.href='@Url.Action("Edit", "Pollings", new { id = item.ID })'" class="btn btn-warning">Edycja</button>
+
+                </td>
+                <td>
+                    <button type="button" onclick="location.href='@Url.Action("Delete", "Pollings", new { id = item.ID })'" class="btn btn-danger">Usuń</button>
+                </td>
+
+            </tr>
+        }
+
+    }
+
+

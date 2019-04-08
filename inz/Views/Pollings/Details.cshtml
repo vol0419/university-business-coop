@@ -1,0 +1,35 @@
+﻿@model inz.Models.Polling
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <h4>Ankieta</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FormLink)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FormLink)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <button type="button" onclick="location.href='@Url.Action("Edit", "Pollings", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-warning">Edit</button> |
+    <button type="button" onclick="location.href='@Url.Action("Index", "Pollings", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-success">Powrót</button>
+
+</p>

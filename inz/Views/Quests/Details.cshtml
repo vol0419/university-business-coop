@@ -1,0 +1,58 @@
+﻿@model inz.Models.Quest
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <h4>Zadanie</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Start_date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Start_date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.End_date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.End_date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Desc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Desc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProjectID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProjectID)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <button type="button" onclick="location.href='@Url.Action("Edit", "Qusests", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-warning">Edit</button> |
+    <button type="button" onclick="location.href='@Url.Action("Index", "Qusests", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-success">Powrót</button>
+</p>

@@ -1,0 +1,57 @@
+﻿@model inz.Models.Project
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Usuń</h2>
+
+<h3>Czy napewno chcesz to usunąć?</h3>
+<div>
+    <h4>Projekt</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Start_date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Start_date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.End_date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.End_date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.desc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.desc)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Usuń" class="btn btn-default" /> |
+            @Html.ActionLink("Wróc do listy", "Index")
+        </div>
+    }
+</div>

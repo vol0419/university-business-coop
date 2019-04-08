@@ -1,0 +1,159 @@
+﻿@model inz.Models.Project
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <h4>Projektu</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <div class="card text-white bg-primary" style="padding: 1rem; background-color: #9fa1a1;">
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.desc)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.desc)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Start_date) &nbsp; - &nbsp; @Html.DisplayNameFor(model => model.End_date)
+            </dt>
+
+
+            <dd>
+                @Html.DisplayFor(model => model.Start_date) &nbsp; - &nbsp; @Html.DisplayFor(model => model.End_date)
+            </dd>
+
+
+        </div>
+
+        <hr />
+        <div class="card text-white bg-info" style="padding: 1rem; background-color: lightslategrey;">
+            <h3 style="text-align: center;">Zadania</h3>
+            <br />
+
+            <button type="button" onclick="location.href='@Url.Action("Create", "Quests", new { ProjectID = Model.ID })'" class="btn btn-secondary btn-lg btn-block">Dodaj zadanie</button>
+
+            <br />
+
+
+            <table class="table">
+                <tr>
+                    <th width="250">Nazwa </th>
+                    <th>Opis</th>
+                    <th width="150">Data rozpoczęcia</th>
+                    <th width="150">Data zakończenia</th>
+                </tr>
+                @foreach (var item in Model.Tasks)
+                {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Desc)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Start_date)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.End_date)
+                    </td>
+
+                </tr>
+                }
+            </table>
+
+        </div>
+        <hr />
+        <div class="card text-white bg-info" style="padding: 1rem; background-color: darkgrey;">
+
+            <h3 style="text-align: center;">Komentarze</h3>
+            <br />
+
+            <button type="button" onclick="location.href='@Url.Action("Create", "Comments", new { ProjectID = Model.ID })'" class="btn btn-secondary btn-lg btn-block">Dodaj komentarz</button>
+
+            <br />
+
+            <table class="table">
+                <tr>
+                    <th width="200">Użytkownik</th>
+                    <th>Komentarz</th>
+                    <th width="200">Data</th>
+                </tr>
+                @foreach (var item in Model.Comments)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nickname)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Description)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Date)
+                        </td>
+                    </tr>
+                }
+            </table>
+
+        </div>
+        <hr />
+        <div class="card text-white bg-white" style="padding: 1rem; background-color: slategrey;">
+
+            <h3 style="text-align: center;">Pliki</h3>
+            <br />
+
+            <button type="button" onclick="location.href='@Url.Action("Create", "Files", new { ProjectID = Model.ID })'" class="btn btn-secondary btn-lg btn-block">Dodaj plik</button>
+
+            <br />
+
+
+            <table class="table">
+                <tr>
+                    <th>Nazwa</th>
+                    <th>Data</th>
+                    <th>Plik</th>
+                    <th>Pobierz</th>
+                </tr>
+                @foreach (var item in Model.Files)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Date)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Path)
+                        </td>
+                        <td>
+                            <button type="button" onclick="location.href='@Url.Action("Details", "Files", new { id = item.Id })'" class="btn btn-primary btn-sm">Pobierz</button>
+                        </td>
+                    </tr>
+                }
+            </table>
+
+        </div>
+    </dl>
+</div>
+<p>
+    <button type="button" onclick="location.href='@Url.Action("Edit", "Projects", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-warning">Edit</button> |
+    <button type="button" onclick="location.href='@Url.Action("Index", "Projects")'" class="btn btn-success">Powrót</button>
+
+</p>

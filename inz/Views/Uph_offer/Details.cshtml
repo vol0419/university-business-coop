@@ -1,0 +1,60 @@
+﻿@model inz.Models.Uph_offer
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <h4>Oferta Uph</h4>
+    <hr />
+
+
+    <hr />
+    <h1><bold>@Html.DisplayFor(model => model.Title)</bold></h1>
+    <hr />
+    <img src="~/Images/@Html.DisplayFor(model => model.ImgName)" align="left" alt="" height="200" width="200" hspace="20" />
+    <big>@Html.DisplayFor(model => model.Description)</big>
+
+    <p> </p>
+    <hr />
+    <p> </p>
+    <p>
+
+
+
+
+
+        <a>Data : </a>  @Html.DisplayFor(model => model.Date)
+        <a>&emsp;|&emsp;</a>
+        <a>Kategorie : </a>  @Html.DisplayFor(model => model.Categories)
+        <a>&emsp;|&emsp;</a>
+        <a>Autor : </a>  @Html.DisplayFor(model => model.Author)
+
+
+        <a>&emsp;|&emsp;</a>
+        <a>Wydział : </a>  @Html.DisplayFor(model => model.Department)
+        <a>&emsp;|&emsp;</a>
+
+        <a>Dodatkowe informacje : </a>  @Html.DisplayFor(model => model.Aiddtional_information)
+
+
+</div>
+@if (Context.User.IsInRole("Admin") || Context.User.IsInRole("Agent") || Context.User.IsInRole("Scientist") || Context.User.IsInRole("Firm"))
+{
+    <button type="button" onclick="location.href='@Url.Action("Edit", "Uph_offer", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-warning">Edycja</button>
+
+    <button type="button" onclick="location.href='@Url.Action("Delete", "Uph_offer", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-danger">Usuń</button>
+}
+@if (Context.User.IsInRole("Agent"))
+{
+    <button type="button" onclick="location.href='@Url.Action("Create", "Orders", new { Uph_offID = Html.DisplayTextFor(model => model.ID), Uph_offTitle = Html.DisplayTextFor(model => model.Title) })'" class="btn btn-danger">Zainteresowany</button>
+}
+ 
+    <button type="button" onclick="location.href='@Url.Action("Index", "Offers", new { id = Html.DisplayTextFor(model => model.ID) })'" class="btn btn-success">Powrót</button>
+ 
+<p>
+
+
+</p>

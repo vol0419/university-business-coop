@@ -1,0 +1,84 @@
+﻿@model inz.Models.Uph_offer
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Usuń</h2>
+
+<h3>Czy napewno chcesz to usunąć?</h3>
+<div>
+    <h4>Oferta Uph</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImgName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ImgName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Author)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Author)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Department)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Department)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aiddtional_information)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aiddtional_information)
+        </dd>
+
+
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Usuń" class="btn btn-default" /> |
+            @Html.ActionLink("Wróc do listy", "Index")
+        </div>
+    }
+</div>

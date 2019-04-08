@@ -1,0 +1,69 @@
+﻿@model IEnumerable<inz.Models.Agent>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Użytkownik</h2>
+@if (Context.User.IsInRole("Admin"))
+{
+    <p>
+        @Html.ActionLink("Nowy użytkownik", "Create")
+    </p>
+}
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Place)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImgName)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Mail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Place)
+                </td>
+                <td>
+                    <img src="~/Images/@item.ImgName" align="left" alt="" height="50" width="50" hspace="20" />
+                </td>
+                @if (Context.User.IsInRole("Admin"))
+                {
+                    <td>
+                        @Html.ActionLink("Edycja", "Edit", new { id = item.ID }) |
+                        @Html.ActionLink("Szczegóły", "Details", new { id = item.ID }) |
+                        @Html.ActionLink("Usuń", "Delete", new { id = item.ID })
+                    </td>
+                }
+            </tr>
+        }
+
+    </table>

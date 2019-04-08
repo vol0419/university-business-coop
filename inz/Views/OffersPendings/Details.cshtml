@@ -1,0 +1,75 @@
+﻿@model inz.Models.OffersPending
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <h4>Zamówienie</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OfferFrom)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OfferFrom)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Agent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Agent)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Taken)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Taken)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OfferID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OfferID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AgentID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AgentID)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <button type="button" onclick="location.href='@Url.Action("Edit", "Details", new { id = Html.DisplayTextFor(model => model.Id) })'" class="btn btn-warning">Edit</button> |
+    <button type="button" onclick="location.href='@Url.Action("Index", "Details", new { id = Html.DisplayTextFor(model => model.Id) })'" class="btn btn-success">Powrót</button>
+
+</p>
