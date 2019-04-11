@@ -8,3 +8,4 @@
 * CSS 3
 * Bootstrap
 * HTML
+* Azure DevOpps for version control (team project)
